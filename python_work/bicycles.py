@@ -1,3 +1,3 @@
 bicycles = ['trek', 'caondale', 'redline', 'specialized']
-print(bicycles)
+print(bicycles[0])
 
