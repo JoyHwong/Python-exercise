@@ -14,3 +14,8 @@ print(motorcycles)
 poped_motorcycle = motorcycles.pop()
 print(motorcycles)
 print(poped_motorcycle)
+
+motorcycles.remove('yamaha')
+print(motorcycles)
+
+
