@@ -6,7 +6,7 @@ favorite_languages = {
     }
 
 friends = ['phil', 'sarah']
-for name in favorite_languages.keys():
+for name in sorted(favorite_languages.keys()):
     print(name.title())
 
     if name in friends:
