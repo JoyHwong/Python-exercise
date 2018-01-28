@@ -6,11 +6,12 @@ while 'cat' in pets:
 
 print(pets)
 
-def describe_pet(animal_type, pet_name):
+def describe_pet(pet_name, animal_type='dog'):
     """Show the pet's information"""
     print("\nI have a " + animal_type + ".")
     print("My " + animal_type + "'s name is " + pet_name.title() + ".")
 
-describe_pet('hasmster', 'harry')
-describe_pet('dog', 'willie')
+describe_pet(animal_type='hasmster', pet_name='harry')
+describe_pet(pet_name='harry', animal_type='hamster')
+describe_pet(pet_name='willie')
 
