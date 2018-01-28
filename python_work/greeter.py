@@ -4,9 +4,9 @@ prompt += "\nWhat is your first name? "
 name = input(prompt)
 print("\nHello, " + name + "!")
 
-def greet_user():
+def greet_user(username):
     """Show simple hello"""
-    print("Hello!")
+    print("Hello, " + username.title() + "!")
 
-greet_user()
+greet_user("jesse")
 
