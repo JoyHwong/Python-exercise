@@ -1,12 +1,12 @@
-favorite_languages = {
-    'jen': ['python', 'ruby'],
-    'sarah': ['c'],
-    'edward': ['ruby', 'go'],
-    'phil': ['python', 'haskell'],
-    }
+from collections import OrderedDict
+
+favorite_languages = OrderedDict()
+
+favorite_languages['jen'] = 'python'
+favorite_languages['sarah'] = 'c'
+favorite_languages['edward'] = 'ruby'
+favorite_languages['phil'] = 'python'
 
 for name, languages in favorite_languages.items():
     print("\n" + name.title() + "'s favorite_languages are:")
-    for language in languages:
-        print("\t" + language.title())
 
