@@ -14,4 +14,7 @@ python3 alien_invasion.py
 
 左右可以移动飞船，空格键(Space)可以射击子弹
 
+## 截图
+
+![sample](images/alien_invasion_sample.png)
 
