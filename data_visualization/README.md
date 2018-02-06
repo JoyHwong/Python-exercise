@@ -6,6 +6,8 @@ data visualization是数据可视化，通过python可以将数据以统计层�
 
 安装matplotlib
 
+安装Pygal
+
 ## sactter_squares.py
 
 ![scatter square](square_plot.png)
