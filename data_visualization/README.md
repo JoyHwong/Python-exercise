@@ -22,3 +22,9 @@ data visualization是数据可视化，通过python可以将数据以统计层�
 
 
 
+## different_dice.py
+
+![different_dice](different_dice.svg)
+
+
+
