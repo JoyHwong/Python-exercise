@@ -15,3 +15,10 @@ data visualization是数据可视化，通过python可以将数据以统计层�
 ## die_visual.py
 
 ![die_visual](die_visual.svg)
+
+## dice_visual.py
+
+![dice_visual](dice_visual.svg)
+
+
+
