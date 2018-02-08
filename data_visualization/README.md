@@ -52,3 +52,15 @@ data visualization是数据可视化，通过python可以将数据以统计层�
 
 
 
+## python_repos.py
+
+![python_repos](python_repos.svg)
+
+
+
+## bar_descriptions.py
+
+![bar_descriptions](bar_descriptions.svg)
+
+
+
