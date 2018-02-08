@@ -34,3 +34,21 @@ data visualization是数据可视化，通过python可以将数据以统计层�
 
 
 
+## na_populations.py
+
+![na_populations](na_populations.svg)
+
+
+
+## americas.py
+
+![americas](americas.svg)
+
+
+
+## world_populations.py
+
+![world_populations](world_populations.svg)
+
+
+
